@@ -1,8 +1,5 @@
 const arr = [1, 24, 6, 8, 9, 90];
-//
-// for (let i = 0; i < arr.length; i++){
-//     console.log(arr[i]);
-// }
+
 
 for (const i of arr){
     console.log(i);
